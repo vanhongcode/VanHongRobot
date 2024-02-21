@@ -1,0 +1,6 @@
+permissions
+  VanHongRobot.reload #Cho phép tải lại plugin
+  VanHongRobot.place #Cho phép đặt Robot
+  VanHongRobot.upgrade #Cho phép nâng cấp Robot
+  VanHongRobot.config #Cho phép tùy chỉnh Robot
+  VanHongRobot.usage #Cho phép sử dụng VanHongRobot
